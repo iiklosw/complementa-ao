@@ -1,0 +1,17 @@
+{
+  "name": "Achados e Perdidos — Gestão Escolar",
+  "short_name": "AchadosApp",
+  "description": "Sistema PWA para controle de objetos achados e perdidos no colégio.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7f9",
+  "theme_color": "#9d174d",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%239d174d'/><path d='M160 130l-45 60v210a30 30 0 0 0 30 30h222a30 30 0 0 0 30-30V190l-45-60zM115 190h282M316 250a60 60 0 0 1-120 0' fill='none' stroke='%23ffffff' stroke-width='28' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
